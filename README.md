@@ -14,8 +14,8 @@ PC-LABO（pc-labo.online）の「基本情報技術者試験問題に挑戦し�
 
 | フォルダ | 記事タイトル | 内容 |
 | --- | --- | --- |
-| [01_variables_types_print](./01_variables_types_print) | PC-LABOのためのPython入門（第1回）～変数・型・print～ | 変数・型・四則演算・比較演算子・f-stringの書式指定を、バイト⇔ビット変換プログラムで確認する |
-| [02_if_for_function_dict](./02_if_for_function_dict) | PC-LABOのためのPython入門（第2回）～条件分岐・ループ・関数の引数・辞書～ | if/for/辞書/デフォルト引数を、得点からのランク判定＋集計プログラムで確認する |
+| [01_variables_types_print](./01_variables_types_print) | PC-LABOを試すためのPython入門（第1回）～変数・型・print～ | 変数・型・四則演算・比較演算子・f-stringの書式指定を、バイト⇔ビット変換プログラムで確認する |
+| [02_if_for_function_dict](./02_if_for_function_dict) | PC-LABOを試すためのPython入門（第2回）～条件分岐・ループ・関数の引数・辞書～ | if/for/辞書/デフォルト引数を、得点からのランク判定＋集計プログラムで確認する |
 
 ## 動作環境
 
