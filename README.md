@@ -1,1 +1,26 @@
 # pc-labo-python-basic
+
+PC-LABO（pc-labo.online）の「基本情報技術者試験問題に挑戦しよう！」シリーズなど、Pythonのコードを使った記事を読むための、最低限のPython入門シリーズ用リポジトリである。
+
+「つくって学ぶ」記事のコードを読み解けるようになることを目標に、3回に分けて構成している。
+
+## 方針
+
+- 1記事＝1フォルダとし、`01_xxx`, `02_xxx` のように連番で管理する
+- 各フォルダには、記事中で「つくってみよう」として紹介したコードを置く
+- 環境構築なしで、Python標準ライブラリのみで動くコードにする（`python3 xxx.py` で即実行できる状態を保つ）
+
+## フォルダ構成
+
+| フォルダ | 記事タイトル | 内容 |
+| --- | --- | --- |
+| [01_variables_types_print](./01_variables_types_print) | PC-LABOのためのPython入門（第1回）～変数・型・print～ | 変数・型・四則演算・比較演算子・f-stringの書式指定を、バイト⇔ビット変換プログラムで確認する |
+
+## 動作環境
+
+- Python 3.x（標準ライブラリのみ使用）
+
+## 関連ブログ
+
+- [PC-LABO（つくって学ぶ体験型ブログ）](https://pc-labo.online/)
+- [pc-labo-fe-exam-python](https://github.com/HappyTalk10/pc-labo-fe-exam-python)（基本情報技術者試験問題シリーズ用リポジトリ）
